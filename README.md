@@ -17,11 +17,15 @@ Para esta actividad, haga una captura de pantalla del resultado de la ejecución
 
 ## Resultados
 
-<img width="163" alt="image" src="https://github.com/user-attachments/assets/b1e45b18-b70b-46f2-a1ac-b46921523e65">
-<img width="163" alt="image" src="https://github.com/user-attachments/assets/58d12ad3-e0a6-4c79-af32-54c5d2af50d4">
+<img width="184" alt="image" src="https://github.com/user-attachments/assets/6d02e990-4934-4ef0-8e6f-d03927ea9cf2">
+<img width="184" alt="image" src="https://github.com/user-attachments/assets/70e87559-2258-4ffa-ad67-9f06c43aeacd">
+<img width="183" alt="image" src="https://github.com/user-attachments/assets/1d8a5058-d277-4884-a10a-46b81a11d1ca">
+
+
 
 
 
 ## Codigo
--  [Ejercicio 1](https://github.com/Desarrollo-Aplicaciones-Web-y-Moviles/Actividad-Previa-03/tree/main/C02E01)
--  [Ejercicio 2](https://github.com/Desarrollo-Aplicaciones-Web-y-Moviles/Actividad-Previa-03/tree/main/C02E02)
+-  [Ejercicio 3](https://github.com/Desarrollo-Aplicaciones-Web-y-Moviles/Actividad-Previa-04/tree/main/C02E03)
+-  [Ejercicio 4](https://github.com/Desarrollo-Aplicaciones-Web-y-Moviles/Actividad-Previa-04/tree/main/C02E04)
+-  [Ejercicio 5](https://github.com/Desarrollo-Aplicaciones-Web-y-Moviles/Actividad-Previa-04/tree/main/C02E05)
